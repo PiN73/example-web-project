@@ -1,3 +1,8 @@
+About the appliction
+====================
+
+The page is a list of text notes. Above the list it is a textarea and a button `Add`. When the button is pressed, new note is sent to the server, added to DB and displayed in the list. Each note has button `Delete`. When it is pressed, note is removed from page and from DB.
+
 Installation and startup
 ========================
 
