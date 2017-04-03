@@ -40,7 +40,7 @@ The input textarea automatically resizes
 
 ![](/screenshots/3.png)
 
-Width of notes is auto-adjusted to the size of the window, long words and long paragraphs breaks to new line
+Width of notes is auto-adjusted to the size of the window, long words and long paragraphs break to a new line
 
 ![](/screenshots/4.png)
 
