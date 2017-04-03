@@ -33,15 +33,19 @@ Advanced version
 ----------------
 
 Added styles
+
 ![](/screenshots/2.png)
 
 The input textarea automatically resizes
+
 ![](/screenshots/3.png)
 
 Width of notes is auto-adjusted to the size of the window, long words and long paragraphs breaks to new line
+
 ![](/screenshots/4.png)
 
 ![](/screenshots/5.png)
 
 While the note is sending, loading icon is shown. If sending fails, buttons `Try again` and `Cancel` appears
+
 ![](/screenshots/6.png)
