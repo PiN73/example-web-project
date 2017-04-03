@@ -1,1 +1,1 @@
-![123](/image.jpg)
+![123](/screenshots/1.png)
